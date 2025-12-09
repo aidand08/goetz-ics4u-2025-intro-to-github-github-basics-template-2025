@@ -1,22 +1,22 @@
 # Student Profile
 
 ## Basic Information
-- **Name:** [Your full name]
-- **Username:** [Your GitHub username]
-- **Email:** [Your school email]
+- **Name:** Aidan Dwyer
+- **Username:** aidand08
+- **Email:** 341796878@educ.dpcdsb.org
 
 ## About Me
-- **Major/Program:** [Your major]
-- **Year:** [Freshman/Sophomore/Junior/Senior]
-- **Interests:** [What are you interested in learning?]
+- **Major/Program:** N/A
+- **Year:** Senior
+- **Interests:** how to use git
 
 ## Experience
-- **Programming Languages I've Used:** [List any, or write "None yet!"]
-- **Why I'm Taking This Course:** [Your reason]
+- **Programming Languages I've Used:** Python
+- **Why I'm Taking This Course:** learning how to code
 
 ## Goals
-- **What I Want to Learn:** [What do you hope to get from this class?]
-- **Career Interests:** [What field are you interested in?]
+- **What I Want to Learn:** knowledge and comfortablity when coding in python
+- **Career Interests:** business
 
 ## Fun Fact
-[Share something interesting about yourself!]
+i like music
